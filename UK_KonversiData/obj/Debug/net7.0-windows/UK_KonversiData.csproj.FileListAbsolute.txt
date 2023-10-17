@@ -1,0 +1,33 @@
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\bin\Debug\net7.0-windows\UK_KonversiData.exe
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\bin\Debug\net7.0-windows\UK_KonversiData.deps.json
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\bin\Debug\net7.0-windows\UK_KonversiData.runtimeconfig.json
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\bin\Debug\net7.0-windows\UK_KonversiData.dll
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\bin\Debug\net7.0-windows\UK_KonversiData.pdb
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.csproj.AssemblyReference.cache
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.Form1.resources
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.csproj.GenerateResource.cache
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.AssemblyInfoInputs.cache
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.AssemblyInfo.cs
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.csproj.CoreCompileInputs.cache
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.dll
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\refint\UK_KonversiData.dll
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.pdb
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.genruntimeconfig.cache
+D:\Document\Tugas!\PPLG\BuYekti\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\ref\UK_KonversiData.dll
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\bin\Debug\net7.0-windows\UK_KonversiData.exe
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\bin\Debug\net7.0-windows\UK_KonversiData.deps.json
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\bin\Debug\net7.0-windows\UK_KonversiData.runtimeconfig.json
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\bin\Debug\net7.0-windows\UK_KonversiData.dll
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\bin\Debug\net7.0-windows\UK_KonversiData.pdb
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.Form1.resources
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.csproj.GenerateResource.cache
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.AssemblyInfoInputs.cache
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.AssemblyInfo.cs
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.csproj.CoreCompileInputs.cache
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.dll
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\refint\UK_KonversiData.dll
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.pdb
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\UK_KonversiData.genruntimeconfig.cache
+C:\Users\lab rpl 1\Documents\uk\UK_KonversiData\UK_KonversiData\obj\Debug\net7.0-windows\ref\UK_KonversiData.dll
